@@ -4,7 +4,7 @@
 **Unofficial Tools For Mass Creating [Best SSH](https://bestvpnssh.com/ "Best SSH") Account**
 
 ###### Requirement
-> Php v7 / Lasted Version
+> Php v7 / Latest Version
 
 # 
 
